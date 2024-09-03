@@ -1,7 +1,3 @@
-Claro! Abaixo está um exemplo de como você pode escrever a descrição para o `README.md` do seu projeto, cobrindo o que foi implementado e fornecendo informações úteis para os desenvolvedores que desejam entender e contribuir para o projeto.
-
----
-
 # Contact Management System
 
 ## Descrição
@@ -53,7 +49,7 @@ O Contact Management System é uma aplicação web desenvolvida em React e ASP.N
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/dionathan-freitas/TesteWeduka.git
+   git clone https://github.com/dionathan-freitas/weduka-front.git
    cd contact-management-system
    ```
 
